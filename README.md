@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Gabriel Stamato. I work as a Javascript Developer at ..
+My name is Gabriel Stamato. I work as a Javascript Developer
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=stamatogabriel&repo=stamatogabriel&countColorcountColor)
 
