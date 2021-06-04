@@ -1,9 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
 
-
-My name is Gabriel Stamato. I work as a Javascript Developer
+My name is Gabriel Stamato. I work as a Fullstack Javascript Developer
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=stamatogabriel&repo=stamatogabriel&countColorcountColor)
 
