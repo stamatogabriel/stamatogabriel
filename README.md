@@ -1,22 +1,13 @@
+# Hi, I'm Fagner! :D
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/stamatogabriel)](https://github.com/stamatogabriel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-henrique-stamato-a5497780/)](https://www.linkedin.com/in/gabriel-henrique-stamato-a5497780/)
+# [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
+# [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
-My name is Gabriel Stamato. I work as a Fullstack Javascript Developer
+### About me
+I'm a {backend, frontend and mobile} developer and technical lead at Bossabox and Certsys.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=stamatogabriel&repo=stamatogabriel&countColorcountColor)
-
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stamatogabriel&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=stamatogabriel&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=stamatogabriel&hide_border=true)
-
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/gabriel-henrique-stamato-a5497780/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
+# - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
+# - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
+# - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
