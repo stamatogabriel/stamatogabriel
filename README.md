@@ -27,4 +27,4 @@
 <br>
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical lead at Bossabox and Certsys.
+I'm a {backend, frontend and mobile} developer and technical lead at Bossabox and Direção Concursos.
