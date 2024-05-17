@@ -27,4 +27,7 @@
 <br>
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical lead at Bossabox and Direção Concursos.
+Constant involvement with front-end technologies such as Javascript, Typescript, Bootstrap, HTML and CSS. Proficiency in back-end programming, using programming languages ​​such as PHP and Node.JS. I have already worked with mobile applications using cross-platform tools such as React-Native, in addition, I have knowledge in relational and non-relational databases and participation in several IT seminars and lectures.
+Acting as a tech lead, I contributed to the creation of product strategies, bringing a more technical vision and approaching a vision of the future, always focusing on quality, scalability and costs. I interfaced between the client's business team and the technology team, bringing to the developers a clear view of the business rules and aligning the expectations of the client and the business team. I worked on the standardization of technologies and code standards for the team and on the intelligent use of the cloud services offered, always seeking the best cost benefit for the company. I also worked directly with suppliers, seeking to eliminate blockages and facilitate the understanding of the services used.
+
+I have knowledge of devOps and AWS tools and creation and maintenance of pipelines for continuous delivery.
